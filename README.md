@@ -10,7 +10,7 @@ If you use this project in any way, be it a commercial project, educational demo
 
 Contributing  
 
-If you are interested in contributing to this project/repository, please contact Titanic Games at teamtitanicgames@gmail.com to be allowed access. Titanic Games, LLC reserves the right to deny access to the project/repository.  
+If you are interested in contributing to this project/repository, please contact Titanic Games at teamtitanicgames@gmail.com to be allowed access. 
 
 Help  
 
