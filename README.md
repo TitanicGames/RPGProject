@@ -12,6 +12,6 @@ Contributing
 
 If you are interested in contributing to this project/repository, please contact Titanic Games at teamtitanicgames@gmail.com to be allowed access. 
 
-Help  
+Disclaimer
 
-If you encounter any problems with the project please inform Titanc Games at teamtitanicgames@gmail.com. Please note that we will update this project and fix bugs as time allows.
+We are no longer actively working on this project so don't expect many bug fixes or additions at this time. As time allows, additional changes will be added.
